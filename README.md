@@ -20,8 +20,8 @@ This repository documents my daily progress as I learn Linux fundamentals and bu
 
 | Day    | Topics             | Notes               |
 | ------ | ------------------ | ------------------- |
-| Day 01 | Basic Commands     | pwd, ls, cd         |
-| Day 02 | File Management    | mkdir, rm, cp, mv   |
+| Day 01 | Basic Commands     | pwd, ls, cd,mkdir   |
+| Day 02 | Basic Commands     | cp,mv,vi,ln,tee,cut |
 | Day 03 | Permissions        | chmod, chown        |
 | Day 04 | Process Management | ps, top, kill       |
 | Day 05 | Networking Basics  | ping, curl, netstat |
