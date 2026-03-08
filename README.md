@@ -41,7 +41,7 @@ linux-learning-journey
 │   └── basic-commands.md
 │
 ├── Day02
-│   └── file-management.md
+│   └── basic_linux_command.md
 │
 ├── Day03
 │   └── permissions.md
